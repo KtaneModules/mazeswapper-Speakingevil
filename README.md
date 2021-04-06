@@ -1,1 +1,1 @@
-# mazeswapper
+#[ModKit Wiki](../../wiki)
